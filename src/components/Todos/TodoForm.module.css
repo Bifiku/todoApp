@@ -1,0 +1,22 @@
+.todoFormContainer input {
+    outline: 0;
+    font-size: 36px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    margin: 25px 10px;
+}
+
+.todoFormContainer button {
+    outline: 0;
+    font-size: 36px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(255 251 158)
+}
+
+.todoFormContainer button:hover {
+    background-color: rgb(255, 224, 71);
+}
